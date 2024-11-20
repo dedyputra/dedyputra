@@ -1,13 +1,17 @@
-<h1 align="center">Hi 👋, I'm Dedy</h1>
-<h3 align="center">A passionate Web Developer & Flutter Developer From Indonesia</h3>
+<h1 align="center">👋 Hello, I'm Dedy</h1>
+<h3 align="center"> Web Developer  & Flutter Developer 🚀 </h3>
+
+<p align="center">
+  <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" alt="coding-gif" width="300"/>
+</p>
+
+<p align="center"> 
+  <em>"Code is like humor. When you have to explain it, it’s bad."</em> 
+</p>
 
 ---
 
-<p align="center">
-  <img src="https://media.giphy.com/media/Ll22OhMLAlVDb8UQWe/giphy.gif" alt="coding-gif" width="200"/>
-</p>
-
-- 🌱 I’m currently learning **Flutter, Python**
-
-- ⚡ Fun fact: **Always Passionate about Learning 👨‍💻**
-
+### About Me  
+- 🌱 Currently expanding my skillset with **Flutter** and **Python**  
+- 🛠 Passionate about crafting seamless user experiences and solving real-world problems  
+- ⚡ Fun Fact: I believe every bug is an opportunity to grow 🌱  
