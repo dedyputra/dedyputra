@@ -1,5 +1,4 @@
 <h1 align="center">👋 Hello, I'm Dedy</h1>
-<h3 align="center"> Web Developer  & Flutter Developer 🚀 </h3>
 
 ---
 ### About Me  
