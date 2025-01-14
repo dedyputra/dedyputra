@@ -4,7 +4,6 @@
 ---
 
 ### About Me  
-- 🌱 Currently expanding my skillset with **Web Dev | Flutter** and **Python**  
 - 💻 Passionate about **Web Development** and **Flutter**, creating innovative and user-centric solutions  
 - 🛠 Dedicated to crafting seamless user experiences and solving real-world problems  
 - ⚡ Fun Fact: I believe every bug is an opportunity to grow 🌱  
