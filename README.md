@@ -1,5 +1,5 @@
 <h1 align="center">👋 Hello, I'm Dedy</h1>  
-<h3 align="center">A Passionate Web Developer</h3>  
+<h3 align="center">A Passionate Web Developer | IT Enthusiast👨‍💻</h3>  
 
 ---
 
