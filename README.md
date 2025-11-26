@@ -4,7 +4,7 @@
 ---
 
 ### About Me  
-- 💻 Passionate about **Web Development** and **Flutter**, **Python**, creating innovative and user-centric solutions  
+- 💻 Passionate about **Web Development** and **Golang**, **Next JS & Python**, creating innovative and user-centric solutions  
 - 🛠 Dedicated to crafting seamless user experiences and solving real-world problems  
 - ⚡ Fun Fact: I believe every bug is an opportunity to grow 🌱  
 - 📚 Learn and grow with every opportunity that comes.
