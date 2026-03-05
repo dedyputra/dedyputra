@@ -10,7 +10,7 @@
 ### 💡 About Me
 *"Engineering logic into elegant solutions, one commit at a time."*
 
-**Expertise** in building robust web ecosystems with **Laravel** & **React** **Advancing** my journey in mobile development with **Flutter** **Exploring** the power of **Python** to unlock data-driven insights. **Bridging** Information Systems strategy with modern Software Engineering. I am a lifelong learner, always eager to explore new technologies and take on any challenges that foster personal and professional growth.
+**Expertise** in building robust web ecosystems with **Laravel** & **React** **Advancing** my journey in mobile development with **Flutter** **Exploring** the power of **Python** to unlock data-driven insights. **Bridging** Information Systems strategy with modern Software Engineering. **I am a lifelong learner**, always eager to explore new technologies and take on any challenges that foster personal and professional growth.
 
 📍 Based in Sidoarjo Jawa Timur, Indonesia 🇮🇩
 
