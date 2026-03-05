@@ -1,7 +1,7 @@
 <div align="center">
 
 # 👋 Hello, I'm Dedy
-###  Web Develeper | Data Enthusiast | Tech Explorer 
+###  Web Develeper | Tech Explorer 
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=24&pause=1000&color=36BCF7&center=true&vCenter=true&width=435&lines=Laravel+Framework;React+in+Progress;Python+for+Data;Problem+Solver)](https://git.io/typing-svg)
 
