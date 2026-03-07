@@ -3,14 +3,14 @@
 # 👋 Hello, I'm Dedy
 ###  Web Develeper | Tech Explorer 
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=24&pause=1000&color=36BCF7&center=true&vCenter=true&width=435&lines=Laravel+Framework;React+in+Progress;Python+for+Data;Problem+Solver)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=24&pause=1000&color=36BCF7&center=true&vCenter=true&width=435&lines=Laravel+Framework;React+in+Progress;Data+Analyst;Problem+Solver)](https://git.io/typing-svg)
 
 ---
 
 ### 💡 About Me
 *"Engineering logic into elegant solutions, one commit at a time."*
 
-**Expertise** in building robust web ecosystems with **Laravel** & **React** **Advancing** my journey in mobile development with **Flutter** **Exploring** the power of **Python** to unlock data-driven insights. **Bridging** Information Systems strategy with modern Software Engineering. **I am a lifelong learner**, always eager to explore new technologies and take on any challenges that foster personal and professional growth.
+**Expertise** in building robust web ecosystems with **Laravel** & **React** **Advancing** my journey in mobile development with **Flutter** **Exploring** the power of **Python** to unlock data-driven insights. **Bridging** Information Systems strategy with modern **Software Engineering**. **I am a lifelong learner**, always eager to explore new technologies and take on any challenges that foster personal and professional growth.
 
 📍 Based in Sidoarjo Jawa Timur, Indonesia 🇮🇩
 
