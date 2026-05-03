@@ -39,6 +39,7 @@
 ### 📫 Let's Connect!
 **Open to Opportunities: Full-time roles, Internships, & Tech Collaborations.**
 
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/dedy-putra-aditia-b8ab3a211/)
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:dedyputraaditia1207@gmail.com)
 
 </div>
