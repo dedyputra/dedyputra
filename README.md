@@ -18,8 +18,8 @@
 
 - 🚀 Building web ecosystems with **Laravel**, **Livewire**, and **JavaScript**
 - 🌱 Advancing into **React** & **Next.js**
-- 📊 Exploring **Data Analysis** and **AI Engineering** — understanding how modern **LLM systems** work under the hood
-- 🎓 Information Systems graduate, focused on **Software Engineering** — bridging business strategy with hands-on development
+- 📊 Exploring **Data Analyst** and **AI Engineering** — understanding how modern **LLM systems** work under the hood
+- 🎓 **Information Systems graduate**, focused on **Software Engineering** — bridging business strategy with hands-on development
 - 🔁 **Lifelong learner** — curiosity-driven, always exploring what's next in tech
 
 📍 Based in Sidoarjo, Jawa Timur, Indonesia 🇮🇩
